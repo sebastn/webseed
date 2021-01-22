@@ -7,7 +7,7 @@ on:
 env:
   name: "Test"
   comment: "Test generation by torrent-webseed-creator"
-  url: "https://1fichier.com/?ov5btrus8404wlr8qlio"
+  url: "https://a-5.1fichier.com/c621519685"
   file_name: "LBP.rar"
   piece_size: 22 # Check the README.md for recommended piece size
       
